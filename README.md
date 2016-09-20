@@ -11,6 +11,8 @@
 
 При выполнении можно пользоваться Backbone, JQuery, React. Но отдельным плюсом будет использование Vanilla JS, ES2015. Можно использовать любые шаблонизаторы, css–процессоры. Использвание Typescript будет плюсом.
 
+Код должен работать в последних версиях Chrome, Firefox, Safari, IE10+.
+
 ## Импорт библиотеки
 
 Плеер должен уметь импортировать библиотеку в виде [json-файла](https://raw.githubusercontent.com/VladimirSemenyuk/target-frontend-test/master/library.json).
