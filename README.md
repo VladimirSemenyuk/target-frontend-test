@@ -49,7 +49,7 @@
 
 ![search](_img_/search.png)
 
-## Отображения трека
+## Отображение трека
 
 ![songs](_img_/songs.png)
 
