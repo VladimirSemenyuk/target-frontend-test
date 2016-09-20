@@ -3,17 +3,12 @@
     {
       "id": 1,
       "name": "The Beatles",
-      "albums": [
-        1,
-        2
-      ]
+      "albums": [1,2]
     },
     {
       "id": 2,
       "name": "The Rolling Stones",
-      "albums": [
-        3
-      ]
+      "albums": [3]
     }
   ],
   "albums": [
